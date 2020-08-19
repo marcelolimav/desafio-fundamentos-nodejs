@@ -1,5 +1,3 @@
-# bootcamp-gostack_desafio-fundamentos-nodejs
-Desafio sobre fundamentos do NodeJs aplicado no Bootcamp GoStack da Rocketseat
 # Desafio 05: Rocketseat/GoSatck
 
 # Primeiro projeto Node.js - GoFinances Web
