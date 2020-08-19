@@ -1,6 +1,6 @@
 # Desafio 05: Rocketseat/GoSatck
 
-# Primeiro projeto Node.js - GoFinances Web
+# Primeiro projeto Node.js - GoFinances Backend
 <p alin="center"><b>Aplicação para estudos em Node.js. Gestão de transações:</b> Aplicativo GoFinances</p>
 
 ## 🚀 Sobre
